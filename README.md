@@ -95,12 +95,12 @@ pip install tqdm atau pip install lmstudio Levenshtein tqdm
 Indonesian License Plate Recognition
 │
 ├── images/
-│      image001.jpg
-│      image002.jpg
+│      test001_1.jpg
+│      test002_1.jpg
 │
 └── labels/
-       image001.txt
-       image002.txt
+       test01_1.txt
+       test002_1.txt
 
 Contoh isi label
 
@@ -119,7 +119,6 @@ Prompt dibuat agar model hanya mengembalikan nomor plat tanpa penjelasan tambaha
 
 
 # Cara Menjalankan Program
-
 Buka terminal pada folder project kemudian jalankan
 
 ```bash
